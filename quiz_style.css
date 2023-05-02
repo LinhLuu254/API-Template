@@ -17,7 +17,6 @@
   
   body {
     background-color: #f0c26a;
-    opacity: 0.9;
   }
   
   img.logo {
@@ -92,6 +91,5 @@ input[type='radio']{
     margin-right:70px ;
   
     background-color: #f0c26a;
-   
     
   }
